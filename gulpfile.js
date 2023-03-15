@@ -1,4 +1,4 @@
-const projectName = "Shatterd_New_Millennium";
+const projectName = "AuroraWeb";
 
 const gulp = require('gulp');
 const browserSync = require('browser-sync').create();

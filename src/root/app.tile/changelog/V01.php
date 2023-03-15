@@ -1,5 +1,5 @@
 <div class="header-object border-none">
-    Shattered New Millennium 1.0
+    AuroraWeb 1.0
     <hr class="border-thin-t" />
 </div>
 
